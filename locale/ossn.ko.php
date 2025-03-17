@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
  * @package   OSSN
  * @author    OSSN Core Team <info@openteknik.com>
  * @copyright (C) OpenTeknik LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 
@@ -22,7 +22,7 @@ $ko = array(
 	'its:free' => "항상 그리고 앞으로도 계속 무료일 것입니다.",
 		
 	'copyright' => '&copy; 저작권',
-	'powered' => 'Powered by the Open Source Social Network.',
+	'powered' => 'Powered by the Boatable Technologies LLC.',
 	
 	'name' => '성명',
 	'birthdate' => '생일',

@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
- * @package   Open Source Social Network
- * @author    Open Source Social Network Core Team <info@openteknik.com>
+ * @package   Boatable Technologies LLC
+ * @author    Boatable Technologies LLC Core Team <info@openteknik.com>
  * @copyright (C) OpenTeknik LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 $en = array(
@@ -13,7 +13,7 @@ $en = array(
 	'like' => 'Piace',
 	'unlike' => 'Non piace',
 	'comment:deleted' => 'Commento cancellato con successo!',
-	'comment:delete:error' => 'Impossibile cancellare il commento! Per favore riprova più tardi.',
+	'comment:delete:error' => 'Impossibile cancellare il commento! Per favore riprova piï¿½ tardi.',
 	'comment:delete' => 'Cancella',
 	'comment:comment' => 'Commenta',
 	'comment:view:all' => 'Guarda tutti i commenti',

@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
- * @package   Open Source Social Network (OSSN)
+ * @package   Boatable Technologies LLC (OSSN)
  * @author    OSSN Core Team <info@openteknik.com>
  * @copyright (C) OpenTeknik LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 
@@ -22,7 +22,7 @@ $zh = array(
 	'its:free' => "永遠免費",
 		
 	'copyright' => '&copy; 版權擁有',
-	'powered' => 'Powered by the Open Source Social Network.',
+	'powered' => 'Powered by the Boatable Technologies LLC.',
 	
 	'name' => '姓名',
 	'birthdate' => '生日',

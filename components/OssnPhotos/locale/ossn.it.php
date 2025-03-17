@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
- * @package   Open Source Social Network (OSSN)
+ * @package   Boatable Technologies LLC (OSSN)
  * @author    OSSN Core Team <info@openteknik.com>
  * @copyright (C) OpenTeknik LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 
@@ -19,7 +19,7 @@ $en = array(
     'photo:albums' => 'Foto Albums',
 	
     'photo:deleted:success' => 'Foto cancellata correttamente!',
-    'photo:delete:error' => 'Impossibile cancellare la foto! Per favore, riprova più tardi.',
+    'photo:delete:error' => 'Impossibile cancellare la foto! Per favore, riprova piï¿½ tardi.',
 	
     'photos' => 'Foto',
     'back' => 'Indietro',

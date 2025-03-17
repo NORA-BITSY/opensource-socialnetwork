@@ -2,7 +2,7 @@
 /**
  *    OpenSource-SocialNetwork
  *
- * @package   Open Source Social Network (OSSN)
+ * @package   Boatable Technologies LLC (OSSN)
  * @author    OSSN Core Team <info@opensource-socialnetwork.com>
  * @copyright (C) OpenTeknik LLC
  * @license   General Public Licence http://opensource-socialnetwork.com/licence
@@ -22,7 +22,7 @@ $fr = array(
     'its:free' => "C'est gratuit et le sera toujours",
 
     'copyright' => '&copy; COPYRIGHT',
-    'powered' => 'Powered by the Open Source Social Network.',
+    'powered' => 'Powered by the Boatable Technologies LLC.',
 	
     'name' => 'Nom',
     'birthdate' => 'Date de naissance',

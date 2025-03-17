@@ -1,9 +1,9 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
  * @packageOpen Source Social Network
- * @author    Open Source Social Network Core Team <info@informatikon.com>
+ * @author    Boatable Technologies LLC Core Team <info@informatikon.com>
  * @copyright 2014 iNFORMATIKON TECHNOLOGIES
  * @license   General Public Licence http://www.opensource-socialnetwork.org/licence
  * @link      http://www.opensource-socialnetwork.org/licence

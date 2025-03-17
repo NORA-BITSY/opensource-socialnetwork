@@ -1,13 +1,13 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
  * Translated by Zaturnay - https://zaturnay.com.ve
  *
- * @package   Open Source Social Network (OSSN)
+ * @package   Boatable Technologies LLC (OSSN)
  * @author    OSSN Core Team <info@openteknik.com>
  * @copyright (C) OpenTeknik LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 
@@ -18,7 +18,7 @@ $spanish = array(
 	'ossn:installation' => 'Instalación',
 	'ossn:check' => 'Validar',
 	'ossn:installed' => 'Instalado',
-	'ossn:installed:message' => 'Open Source Social Network ha sido instalado.',
+	'ossn:installed:message' => 'Boatable Technologies LLC ha sido instalado.',
     'ossn:prerequisites' => 'Requisitos de instalación',
     'ossn:settings' => 'Configuración del servidor',
     'ossn:dbsettings' => 'Base de datos',

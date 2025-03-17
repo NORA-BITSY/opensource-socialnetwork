@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
  * @package   (Informatikon.com).ossn
  * @author    OSSN Core Team <info@opensource-socialnetwork.org>
  * @copyright 2014 iNFORMATIKON TECHNOLOGIES
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 
@@ -16,7 +16,7 @@ $portuguese = array(
 	'ossn:installation' => 'Instalação',
 	'ossn:check' => 'Validado',
 	'ossn:installed' => 'Instalado',
-	'ossn:installed:message' => 'Open Source Social Network foi instalado com sucesso.',
+	'ossn:installed:message' => 'Boatable Technologies LLC foi instalado com sucesso.',
     'ossn:prerequisites' => 'Installation prerequisites',
     'ossn:settings' => 'Configurações do servidor',
     'ossn:dbsettings' => 'Banco de dados',

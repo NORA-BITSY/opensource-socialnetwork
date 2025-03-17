@@ -2,7 +2,7 @@
 /**
  *    OpenSource-SocialNetwork
  *
- * @package   Open Source Social Network (OSSN)
+ * @package   Boatable Technologies LLC (OSSN)
  * @author    OSSN Core Team <info@opensource-socialnetwork.com>
  * @copyright (C) OpenTeknik LLC
  * @license   General Public Licence http://opensource-socialnetwork.com/licence

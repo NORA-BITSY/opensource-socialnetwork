@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
- * @package   Open Source Social Network
- * @author    Open Source Social Network Core Team <info@openteknik.com>
+ * @package   Boatable Technologies LLC
+ * @author    Boatable Technologies LLC Core Team <info@openteknik.com>
  * @copyright (C) OpenTeknik LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 $en = array(
@@ -20,9 +20,9 @@ $en = array(
     'ad:browse' => 'Browse',
     'ad:clicks' => 'Clicks',
     'sponsored' => 'SPONSORIZZATO',
-	'ad:deleted' => "L\'annucio con il titolo '%s' è stato cancellato con successo.",
-	'ad:delete:fail' => 'Impossibile cancellare l\'annuncio! Per favore riprovare più tardi.',
+	'ad:deleted' => "L\'annucio con il titolo '%s' ï¿½ stato cancellato con successo.",
+	'ad:delete:fail' => 'Impossibile cancellare l\'annuncio! Per favore riprovare piï¿½ tardi.',
 	'ad:edited' => 'Annuncio modificato con successo.',
-	'ad:edit:fail' => 'Impossibile modificare l\'annuncio! Per favore riprova più tardi.',
+	'ad:edit:fail' => 'Impossibile modificare l\'annuncio! Per favore riprova piï¿½ tardi.',
 );
 ossn_register_languages('it', $en); 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
  * @package   (Informatikon.com).ossn
  * @author    OSSN Core Team <info@opensource-socialnetwork.org>

@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
  * @package   Ossn hu
  * @author    OSSN Core Team <info@openteknik.com>
  * @copyright OPENTEKNIK LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 
@@ -22,7 +22,7 @@ $hu = array(
 	'its:free' => "Ingyenes, és az is marad.",
 		
 	'copyright' => '&copy; COPYRIGHT',
-	'powered' => 'Powered by the Open Source Social Network.',
+	'powered' => 'Powered by the Boatable Technologies LLC.',
 	
 	'name' => 'Név',
 	'birthdate' => 'Születés dátuma',

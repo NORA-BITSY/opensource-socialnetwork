@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
- * @package   Open Source Social Network (OSSN)
+ * @package   Boatable Technologies LLC (OSSN)
  * @author    OSSN Core Team <info@openteknik.com>
  * @copyright (C) OpenTeknik LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 
@@ -16,7 +16,7 @@ $sinhala = array(
 	'ossn:installation' => 'ස්ථාපනය',
 	'ossn:check' => 'වලංගු',
 	'ossn:installed' => 'ස්ථාපනය කරනඅද ලද',
-	'ossn:installed:message' => 'Open Source Social Network ස්ථාපනය කරන ලදී.',
+	'ossn:installed:message' => 'Boatable Technologies LLC ස්ථාපනය කරන ලදී.',
     'ossn:prerequisites' => 'ස්ථාපනයට පෙර අවශ්‍යතා',
     'ossn:settings' => 'Server සැකසුම්',
     'ossn:dbsettings' => 'Database',

@@ -1,11 +1,11 @@
 <?php
 /**
- * Open Source Social Network
+ * Boatable Technologies LLC
  *
- * @package   Open Source Social Network
- * @author    Open Source Social Network Core Team <info@openteknik.com>
+ * @package   Boatable Technologies LLC
+ * @author    Boatable Technologies LLC Core Team <info@openteknik.com>
  * @copyright (C) OpenTeknik LLC
- * @license   Open Source Social Network License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
+ * @license   Boatable Technologies LLC License (OSSN LICENSE)  http://www.opensource-socialnetwork.org/licence
  * @link      https://www.opensource-socialnetwork.org/
  */
 $en = array(
@@ -38,7 +38,7 @@ Saluti.
 	'com:ossn:invite:sent' => 'I tuoi amici sono stati invitati. Inviti inviati: %s.',
 	'com:ossn:invite:wrong:emails' => 'I seguenti indirizzi non sono validi: %s.',
 	'com:ossn:invite:sent:failed' => 'Non posso invitare i seguenti indirizzi: %s.',
-	'com:ossn:invite:already:members' => 'I seguenti indirizzi sono già membri: %s',
+	'com:ossn:invite:already:members' => 'I seguenti indirizzi sono giï¿½ membri: %s',
 	'com:ossn:invite:empty:emails' => 'Per favore, inserisci almeno un indirizzo e-mail',
 );
 ossn_register_languages('it', $en); 

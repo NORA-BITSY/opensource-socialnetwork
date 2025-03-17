@@ -2,7 +2,7 @@
 /**
  *    OpenSource-SocialNetwork
  *
- * @package   Open Source Social Network (OSSN)
+ * @package   Boatable Technologies LLC (OSSN)
  * @author    OSSN Core Team <info@opensource-socialnetwork.com>
  * @copyright (C) OpenTeknik LLC
  * @license   General Public Licence http://opensource-socialnetwork.com/licence
@@ -16,7 +16,7 @@ $fr = array(
 	'ossn:installation' => 'Installation',
 	'ossn:check' => 'Valider',
 	'ossn:installed' => 'Installé',
-	'ossn:installed:message' => 'Open Source Social Network a été installé. Lorsque vous avez terminé, s\'il vous plaît supprimer le répertoire d\'installation.',
+	'ossn:installed:message' => 'Boatable Technologies LLC a été installé. Lorsque vous avez terminé, s\'il vous plaît supprimer le répertoire d\'installation.',
     'ossn:prerequisites' => 'Conditions préalables d\'installation',
     'ossn:settings' => 'Réglages du serveur',
     'ossn:dbsettings' => 'Base de donnée',
